@@ -1,4 +1,4 @@
-<h1 align="center">App Previsão do tempo - Angular</h1>
+<h1 align="center">Pet Life - HTML, CSS e Javascript</h1>
 
 <p align="center">
 <img alt="" src="https://img.shields.io/github/last-commit/romulomastelari/galeraJavaScript?color=4da1cd" />
